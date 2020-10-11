@@ -1,2 +1,5 @@
-.idea/
-bin/
+/.idea
+/bin
+/vendor
+.DS_Store
+/.vscode
